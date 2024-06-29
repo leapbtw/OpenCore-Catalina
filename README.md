@@ -13,3 +13,11 @@ I did [map the RAM](https://dortania.github.io/OpenCore-Post-Install/universal/m
 My DDR4 is overclocked to 3733CL14
 
 Wi-Fi chipset should be BCM4360 
+
+Audio is enabled and SPDIF works too.
+
+Has issues with sleep that i can't be bothered to fix.
+
+CHANGE THE SMBIOS STUFF
+
+SecureBoot should work but you have to enroll the .EFIs into your UEFI settings
