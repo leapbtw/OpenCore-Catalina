@@ -7,6 +7,9 @@
 - Network:  [https://www.fenvi.com/product_detail_32.html](Fenvi FV-HB1200)
 
 My pc also has a 3070, which has been disabled. The WX 4100 is in the second X16 slot.
+
 I did [https://dortania.github.io/OpenCore-Post-Install/universal/memory.html#cleaning-up](Map the RAM)
+
 My DDR4 is overclocked to 3733CL14
+
 Wi-Fi chipset should be BCM4360 
