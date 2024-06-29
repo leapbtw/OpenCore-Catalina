@@ -12,7 +12,7 @@ I did [map the RAM](https://dortania.github.io/OpenCore-Post-Install/universal/m
 
 My DDR4 is overclocked to 3733CL14
 
-Wi-Fi chipset should be BCM4360 
+Wi-Fi chipset is BCM4360 
 
 Audio is enabled and SPDIF works too.
 
