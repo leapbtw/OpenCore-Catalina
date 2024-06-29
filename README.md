@@ -8,7 +8,7 @@
 
 My pc also has a 3070, which has been disabled. The WX 4100 is in the second X16 slot.
 
-I did [Map the RAM](https://dortania.github.io/OpenCore-Post-Install/universal/memory.html#cleaning-up)
+I did [map the RAM](https://dortania.github.io/OpenCore-Post-Install/universal/memory.html#cleaning-up)
 
 My DDR4 is overclocked to 3733CL14
 
